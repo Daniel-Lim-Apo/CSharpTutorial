@@ -6,5 +6,5 @@
 
     // Use the Console class from the System namespace.
     //Optionally Main method could be ommited
-    System.Console.WriteLine("Hello, world!");
+    System.Console.WriteLine("Hello, world! Enxuto.");
 

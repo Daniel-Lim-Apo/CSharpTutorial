@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalc", "MyCalc\MyCalc.csproj", "{B7AD1105-6468-4FA1-9A3E-83177E15F28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperLogger", "SuperLogger\SuperLogger.csproj", "{1B41F728-1C1F-4464-8E97-FAD5FD3EE99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCalcMachine", "SuperCalcMachine\SuperCalcMachine.csproj", "{428E44D4-2CEA-429D-BB72-0C64C45779EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7AD1105-6468-4FA1-9A3E-83177E15F28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AD1105-6468-4FA1-9A3E-83177E15F28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AD1105-6468-4FA1-9A3E-83177E15F28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AD1105-6468-4FA1-9A3E-83177E15F28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B41F728-1C1F-4464-8E97-FAD5FD3EE99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B41F728-1C1F-4464-8E97-FAD5FD3EE99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B41F728-1C1F-4464-8E97-FAD5FD3EE99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B41F728-1C1F-4464-8E97-FAD5FD3EE99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428E44D4-2CEA-429D-BB72-0C64C45779EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428E44D4-2CEA-429D-BB72-0C64C45779EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428E44D4-2CEA-429D-BB72-0C64C45779EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428E44D4-2CEA-429D-BB72-0C64C45779EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
