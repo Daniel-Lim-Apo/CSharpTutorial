@@ -41,7 +41,8 @@ class TestClass
 ## How to Run
 
 ```bash
-dotnet run --project ExternalArgumentApp -- Hello World 123
+cd CSharpTutorial\001-ExternalArgument\ExternalArgumentApp
+dotnet run --project ExternalArgumentApp.csproj -- Hello World 123
 ```
 
 ### Expected Output
