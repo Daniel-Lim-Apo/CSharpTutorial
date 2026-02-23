@@ -1,4 +1,4 @@
-﻿public class TwoNames
+﻿public class TwoWords
 {
     public static void Main()
     {
